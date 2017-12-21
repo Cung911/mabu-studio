@@ -1,4 +1,4 @@
-# Bootstrap 4 Starter Pack (ALPHA 4.0.0-6)
+# Mabu Studio - Front-End Project
 
 Includes complete Bootstrap 4.0.0-alpha6 dev environment with gulp and sass
 
@@ -9,7 +9,7 @@ Includes complete Bootstrap 4.0.0-alpha6 dev environment with gulp and sass
 ## Install Dependencies
 
 ```bash
-npm install 
+npm install
 ```
 
 ## Compile Sass & Run Dev Server
