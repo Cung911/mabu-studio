@@ -2,8 +2,13 @@ doctype html
 html(lang='en')
   include ./partials/_header.jade
   body
-    h1 This is starter template
-
+    include ./partials/_top-nav.jade
+    
+    .container
+      .starter-template
+        h1 This is starter template
+        p.lead Use this file to quickly start any new pages.
+    
     // Script
     script(src='assets/js/jquery.min.js')
     script(src='assets/js/tether.min.js')
